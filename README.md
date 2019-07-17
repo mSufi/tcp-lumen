@@ -1,5 +1,5 @@
 # tcp-lumen
-TCP Server Using Laravel/Lumen + ReactPHP
+TCP Server Using Laravel/Lumen + ReactPHP/Socket
 
 Simple TCP server 
 
